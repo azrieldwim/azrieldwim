@@ -11,6 +11,9 @@
 👨‍💻 Undergraduate informatics student at Universitas Pembangunan Nasional Veteran Jakarta
 📫 I’m currently open for: An Intern or a new job opportunity
 ⚡ Front-end Web and Mobile Dev Enthusiast
+</div>
+
+<div align="center">
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azrieldwim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azrieldwim) 

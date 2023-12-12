@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azriel+Dwi+Mahendra!;" />
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azrieldwim&label=Profile%20views&color=0e75b6&style=flat" alt="azrieldwim" /> </p>
+
 <h3 align="center">A passionate FrontEnd Web & Mobile developer from Indonesia</h3>
 
 <br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azrieldwim&label=Profile%20views&color=0e75b6&style=flat" alt="azrieldwim" /> </p>
 
 <div align="center">
 

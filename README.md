@@ -7,10 +7,13 @@
 <br/>
 
 <div align="center">
-# 💫About Me :
+
 👨‍💻 Undergraduate informatics student at Universitas Pembangunan Nasional Veteran Jakarta
+
 📫 I’m currently open for: An Intern or a new job opportunity
+
 ⚡ Front-end Web and Mobile Dev Enthusiast
+
 </div>
 
 <div align="center">

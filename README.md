@@ -26,9 +26,7 @@
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-<h2 align="center">📊GitHub Stats</h2>
-<br>
-#
+#📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=azrieldwim&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azrieldwim&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azrieldwim&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

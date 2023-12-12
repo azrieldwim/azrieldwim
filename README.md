@@ -6,6 +6,7 @@
 
 <br/>
 
+<div align="center">
 # 💫About Me :
 👨‍💻 Undergraduate informatics student at Universitas Pembangunan Nasional Veteran Jakarta
 📫 I’m currently open for: An Intern or a new job opportunity
@@ -23,3 +24,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azrieldwim&icon=5&color=0)](https://visitcount.itsvg.in)
+
+</div>

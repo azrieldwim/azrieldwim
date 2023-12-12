@@ -6,6 +6,8 @@
 
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azrieldwim&label=Profile%20views&color=0e75b6&style=flat" alt="azrieldwim" /> </p>
+
 <div align="center">
 
 👨‍💻 Undergraduate informatics student at Universitas Pembangunan Nasional Veteran Jakarta
